@@ -50,9 +50,9 @@ class AppRestController extends Controller
         }else{
             $random_response = rand (0, 1);
             if($random_response){
-                $response->setContent('{"message": "Votre taxi a bien ete reserve !"}');
+                $response->setContent('{"result": true}');
             }else{
-                $response->setContent('{"message": "Impossible de reserver ce taxi !"}');
+                $response->setContent('{"result": false}');
             }
         }
 
