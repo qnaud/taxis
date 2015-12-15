@@ -1,0 +1,603 @@
+{
+  "data": [
+    {
+      "ads": {
+        "insee": "75056",
+        "numero": "9421"
+      },
+      "crowfly_distance": 0.48,
+      "driver": {
+        "departement": "75",
+        "professional_licence": "815703"
+      },
+      "id": "msgLaLj",
+      "last_update": 1450101159,
+      "operator": "neotaxi",
+      "position": {
+        "lat": "48.853613628823595",
+        "lon": "2.3474720120429993"
+      },
+      "rating": 4.5,
+      "status": "free",
+      "vehicle": {
+        "characteristics": [],
+        "color": null,
+        "constructor": "MERCEDES",
+        "licence_plate": "CX-837-QD",
+        "model": "E220",
+        "nb_seats": null
+      }
+    },
+    {
+      "ads": {
+        "insee": "75056",
+        "numero": "97"
+      },
+      "crowfly_distance": 0.67,
+      "driver": {
+        "departement": "75",
+        "professional_licence": "091402"
+      },
+      "id": "9cf0ebfa-dd37-45c4-8a80-60db584535d8",
+      "last_update": 1450101160,
+      "operator": "neotaxi",
+      "position": {
+        "lat": "48.855996266713376",
+        "lon": "2.3430946469306946"
+      },
+      "rating": 4.5,
+      "status": "free",
+      "vehicle": {
+        "characteristics": [],
+        "color": null,
+        "constructor": "TOYOTA",
+        "licence_plate": "DM-220-VP",
+        "model": "PRIU",
+        "nb_seats": null
+      }
+    },
+    {
+      "ads": {
+        "insee": "75056",
+        "numero": "9862"
+      },
+      "crowfly_distance": 0.67,
+      "driver": {
+        "departement": "75",
+        "professional_licence": "090112"
+      },
+      "id": "f2eeda01-f4df-4f6d-a1cd-d6d4fbd39f08",
+      "last_update": 1450101158,
+      "operator": "neotaxi",
+      "position": {
+        "lat": "48.851063699337303",
+        "lon": "2.3558834195137024"
+      },
+      "rating": 4.5,
+      "status": "free",
+      "vehicle": {
+        "characteristics": [],
+        "color": null,
+        "constructor": "TOYOTA",
+        "licence_plate": "CR-593-PV",
+        "model": "PRIU",
+        "nb_seats": null
+      }
+    },
+    {
+      "ads": {
+        "insee": "75056",
+        "numero": "40809"
+      },
+      "crowfly_distance": 1.03,
+      "driver": {
+        "departement": "75",
+        "professional_licence": "120586 "
+      },
+      "id": "55a5876f-f02f-40de-9bcf-8f0a5290a698",
+      "last_update": 1450101160,
+      "operator": "neotaxi",
+      "position": {
+        "lat": "48.847684916031909",
+        "lon": "2.3485448956489563"
+      },
+      "rating": 4.5,
+      "status": "free",
+      "vehicle": {
+        "characteristics": [],
+        "color": null,
+        "constructor": "PEUGEOT",
+        "licence_plate": "DN-715-YC",
+        "model": "308",
+        "nb_seats": null
+      }
+    },
+    {
+      "ads": {
+        "insee": "75056",
+        "numero": "41579"
+      },
+      "crowfly_distance": 1.39,
+      "driver": {
+        "departement": "75",
+        "professional_licence": "111832"
+      },
+      "id": "CzYsZCT",
+      "last_update": 1450101160,
+      "operator": "neotaxi",
+      "position": {
+        "lat": "48.851765817098439",
+        "lon": "2.3697182536125183"
+      },
+      "rating": 4.5,
+      "status": "free",
+      "vehicle": {
+        "characteristics": [],
+        "color": null,
+        "constructor": "CITROEN",
+        "licence_plate": "CQ-514-SE",
+        "model": "C3PI",
+        "nb_seats": null
+      }
+    },
+    {
+      "ads": {
+        "insee": "75056",
+        "numero": "9421"
+      },
+      "crowfly_distance": 1.39,
+      "driver": {
+        "departement": "75",
+        "professional_licence": "815703"
+      },
+      "id": "tqhxdJB",
+      "last_update": 1450101159,
+      "operator": "neotaxi",
+      "position": {
+        "lat": "48.849162658467804",
+        "lon": "2.3674705624580383"
+      },
+      "rating": 4.5,
+      "status": "free",
+      "vehicle": {
+        "characteristics": [],
+        "color": null,
+        "constructor": "MERCEDES",
+        "licence_plate": "CX-837-QD",
+        "model": "E220",
+        "nb_seats": null
+      }
+    },
+    {
+      "ads": {
+        "insee": "75056",
+        "numero": ""
+      },
+      "crowfly_distance": 1.67,
+      "driver": {
+        "departement": "91",
+        "professional_licence": ""
+      },
+      "id": "7767c7e8-06a8-41b6-b9bd-03c4423824c9",
+      "last_update": 1450101160,
+      "operator": "neotaxi",
+      "position": {
+        "lat": "48.845505055834877",
+        "lon": "2.3674705624580383"
+      },
+      "rating": 4.5,
+      "status": "free",
+      "vehicle": {
+        "characteristics": [],
+        "color": null,
+        "constructor": "OPEL",
+        "licence_plate": "7804ZD94",
+        "model": "VECT",
+        "nb_seats": null
+      }
+    },
+    {
+      "ads": {
+        "insee": "75056",
+        "numero": "41644"
+      },
+      "crowfly_distance": 1.88,
+      "driver": {
+        "departement": "75",
+        "professional_licence": "110064"
+      },
+      "id": "46c51e21-fc5b-4a4a-b28a-294f2b260c1e",
+      "last_update": 1450101160,
+      "operator": "neotaxi",
+      "position": {
+        "lat": "48.845723041854583",
+        "lon": "2.3326340317726135"
+      },
+      "rating": 4.5,
+      "status": "free",
+      "vehicle": {
+        "characteristics": [],
+        "color": null,
+        "constructor": "PEUGEOT",
+        "licence_plate": "DL-669-PL",
+        "model": "308",
+        "nb_seats": null
+      }
+    },
+    {
+      "ads": {
+        "insee": "75056",
+        "numero": "neotest1"
+      },
+      "crowfly_distance": 1.97,
+      "driver": {
+        "departement": "75",
+        "professional_licence": "neo1"
+      },
+      "id": "7ycynEb",
+      "last_update": 1450101160,
+      "operator": "neotaxi",
+      "position": {
+        "lat": "48.85020696358545",
+        "lon": "2.3271247744560242"
+      },
+      "rating": 4.5,
+      "status": "free",
+      "vehicle": {
+        "characteristics": [
+          "special_need_vehicle",
+          "every_destination",
+          "gps",
+          "electronic_toll",
+          "air_con",
+          "pet_accepted",
+          "bike_accepted",
+          "baby_seat",
+          "wifi",
+          "tablet",
+          "dvd_player",
+          "fresh_drink",
+          "amex_accepted",
+          "bank_check_accepted",
+          "nfc_cc_accepted",
+          "credit_card_accepted",
+          "luxury"
+        ],
+        "color": "string",
+        "constructor": "string",
+        "licence_plate": "AA-75-TEST1",
+        "model": "string",
+        "nb_seats": 0
+      }
+    },
+    {
+      "ads": {
+        "insee": "75056",
+        "numero": "40758"
+      },
+      "crowfly_distance": 2.04,
+      "driver": {
+        "departement": "93",
+        "professional_licence": "131580"
+      },
+      "id": "82fac9b8-0051-40c4-b1e1-a95e47b08ca6",
+      "last_update": 1450101159,
+      "operator": "neotaxi",
+      "position": {
+        "lat": "48.857144495398558",
+        "lon": "2.3242977261543274"
+      },
+      "rating": 4.5,
+      "status": "free",
+      "vehicle": {
+        "characteristics": [],
+        "color": null,
+        "constructor": "CITROEN",
+        "licence_plate": "DA-501-XG",
+        "model": "C4 PICASSO",
+        "nb_seats": null
+      }
+    },
+    {
+      "ads": {
+        "insee": "75109",
+        "numero": ""
+      },
+      "crowfly_distance": 2.04,
+      "driver": {
+        "departement": "91",
+        "professional_licence": ""
+      },
+      "id": "85956db8-91b9-44a2-9675-6f3a4438b479",
+      "last_update": 1450101160,
+      "operator": "neotaxi",
+      "position": {
+        "lat": "48.866416505399428",
+        "lon": "2.3285785317420959"
+      },
+      "rating": 4.5,
+      "status": "free",
+      "vehicle": {
+        "characteristics": [],
+        "color": null,
+        "constructor": "OPEL",
+        "licence_plate": "7804ZD94",
+        "model": "VECT",
+        "nb_seats": null
+      }
+    },
+    {
+      "ads": {
+        "insee": "75056",
+        "numero": "98202"
+      },
+      "crowfly_distance": 2.05,
+      "driver": {
+        "departement": "75",
+        "professional_licence": "100435"
+      },
+      "id": "540fd1e0-1cc2-4ada-b9e0-824d5a540927",
+      "last_update": 1450101159,
+      "operator": "neotaxi",
+      "position": {
+        "lat": "48.844519049303898",
+        "lon": "2.3732748627662659"
+      },
+      "rating": 4.5,
+      "status": "free",
+      "vehicle": {
+        "characteristics": [
+          "special_need_vehicle",
+          "every_destination",
+          "gps",
+          "electronic_toll",
+          "air_con",
+          "pet_accepted",
+          "bike_accepted",
+          "baby_seat",
+          "wifi",
+          "tablet",
+          "dvd_player",
+          "fresh_drink",
+          "amex_accepted",
+          "bank_check_accepted",
+          "nfc_cc_accepted",
+          "credit_card_accepted",
+          "luxury"
+        ],
+        "color": "orange",
+        "constructor": "Toyota",
+        "licence_plate": "BG-588-EQ",
+        "model": "Prius",
+        "nb_seats": 4
+      }
+    },
+    {
+      "ads": {
+        "insee": "75056",
+        "numero": ""
+      },
+      "crowfly_distance": 2.16,
+      "driver": {
+        "departement": "91",
+        "professional_licence": ""
+      },
+      "id": "ef7e5a85-89eb-4282-951c-be750f3190f4",
+      "last_update": 1450101159,
+      "operator": "neotaxi",
+      "position": {
+        "lat": "48.845249048997786",
+        "lon": "2.3761555552482605"
+      },
+      "rating": 4.5,
+      "status": "free",
+      "vehicle": {
+        "characteristics": [],
+        "color": null,
+        "constructor": "OPEL",
+        "licence_plate": "7804ZD94",
+        "model": "VECT",
+        "nb_seats": null
+      }
+    },
+    {
+      "ads": {
+        "insee": "75056",
+        "numero": "1888"
+      },
+      "crowfly_distance": 2.36,
+      "driver": {
+        "departement": "93",
+        "professional_licence": "150506"
+      },
+      "id": "ef6b1f46-2af9-4ccc-bbbb-026ef4b2b58b",
+      "last_update": 1450101158,
+      "operator": "neotaxi",
+      "position": {
+        "lat": "48.864921019915414",
+        "lon": "2.3225381970405579"
+      },
+      "rating": 4.5,
+      "status": "free",
+      "vehicle": {
+        "characteristics": [],
+        "color": null,
+        "constructor": "MERCEDES",
+        "licence_plate": "CE-863-AT",
+        "model": "E220",
+        "nb_seats": null
+      }
+    },
+    {
+      "ads": {
+        "insee": "75056",
+        "numero": "4052"
+      },
+      "crowfly_distance": 2.72,
+      "driver": {
+        "departement": "93",
+        "professional_licence": "4052"
+      },
+      "id": "39dde3c2-7374-4eac-ad87-3a26c2145651",
+      "last_update": 1450101160,
+      "operator": "neotaxi",
+      "position": {
+        "lat": "48.843920855110284",
+        "lon": "2.3204407095909119"
+      },
+      "rating": 4.5,
+      "status": "free",
+      "vehicle": {
+        "characteristics": [],
+        "color": null,
+        "constructor": "MERCEDES",
+        "licence_plate": "BN-445-EN",
+        "model": "E220",
+        "nb_seats": null
+      }
+    },
+    {
+      "ads": {
+        "insee": "75056",
+        "numero": "6715"
+      },
+      "crowfly_distance": 4.33,
+      "driver": {
+        "departement": "75",
+        "professional_licence": "809448"
+      },
+      "id": "MJbqzdh",
+      "last_update": 1450101001,
+      "operator": "g7",
+      "position": {
+        "lat": "48.853699809343013",
+        "lon": "2.4111583828926086"
+      },
+      "rating": 4.5,
+      "status": "free",
+      "vehicle": {
+        "characteristics": [
+          "every_destination",
+          "gps",
+          "air_con",
+          "amex_accepted",
+          "credit_card_accepted"
+        ],
+        "color": "GRIS CLAIR",
+        "constructor": "TOYOTA",
+        "licence_plate": "CZ-148-MT",
+        "model": "PRIUS PLUS",
+        "nb_seats": 4
+      }
+    },
+    {
+      "ads": {
+        "insee": "75056",
+        "numero": "13802"
+      },
+      "crowfly_distance": 4.54,
+      "driver": {
+        "departement": "75",
+        "professional_licence": "812819"
+      },
+      "id": "ucVCfpa",
+      "last_update": 1450100693,
+      "operator": "g7",
+      "position": {
+        "lat": "48.816799338705366",
+        "lon": "2.3382613062858582"
+      },
+      "rating": 4.5,
+      "status": "free",
+      "vehicle": {
+        "characteristics": [
+          "every_destination",
+          "gps",
+          "air_con",
+          "tablet",
+          "amex_accepted",
+          "bank_check_accepted",
+          "credit_card_accepted",
+          "luxury"
+        ],
+        "color": "NOIRE",
+        "constructor": "MERCEDES",
+        "licence_plate": "CB-583-DA",
+        "model": "CLASSE E",
+        "nb_seats": 4
+      }
+    },
+    {
+      "ads": {
+        "insee": "75056",
+        "numero": "10096"
+      },
+      "crowfly_distance": 5.08,
+      "driver": {
+        "departement": "75",
+        "professional_licence": "815967"
+      },
+      "id": "oauJbRH",
+      "last_update": 1450101088,
+      "operator": "g7",
+      "position": {
+        "lat": "48.869600115175558",
+        "lon": "2.2856792807579041"
+      },
+      "rating": 4.5,
+      "status": "free",
+      "vehicle": {
+        "characteristics": [
+          "every_destination",
+          "air_con",
+          "pet_accepted",
+          "tablet",
+          "amex_accepted",
+          "bank_check_accepted",
+          "credit_card_accepted",
+          "luxury"
+        ],
+        "color": "NOIRE",
+        "constructor": "MERCEDES",
+        "licence_plate": "DR-739-MP",
+        "model": "CLASSE E",
+        "nb_seats": 4
+      }
+    },
+    {
+      "ads": {
+        "insee": "75056",
+        "numero": "30295"
+      },
+      "crowfly_distance": 14.38,
+      "driver": {
+        "departement": "75",
+        "professional_licence": "811223"
+      },
+      "id": "dBppQqa",
+      "last_update": 1450100711,
+      "operator": "g7",
+      "position": {
+        "lat": "48.764700679996309",
+        "lon": "2.4902996420860291"
+      },
+      "rating": 4.5,
+      "status": "free",
+      "vehicle": {
+        "characteristics": [
+          "every_destination",
+          "gps",
+          "air_con",
+          "amex_accepted",
+          "bank_check_accepted",
+          "credit_card_accepted"
+        ],
+        "color": "GRIS CLAIR",
+        "constructor": "TOYOTA",
+        "licence_plate": "DG444NG",
+        "model": "PRIUS PLUS",
+        "nb_seats": 4
+      }
+    }
+  ]
+}

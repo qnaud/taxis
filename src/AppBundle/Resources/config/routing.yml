@@ -1,0 +1,8 @@
+api_get_taxis:
+    path:     /api/taxis/lat={lat}&lon={lon}
+    defaults: { _controller: AppBundle:AppRest:getTaxis }
+
+api_get_reservation:
+    path:     /api/reservation/taxi={idTaxi}
+    defaults: { _controller: AppBundle:AppRest:getReservation }
+
