@@ -22,7 +22,7 @@ class AppRestController extends Controller
             $response->setContent('{"message": "Veuillez preciser une latitude et une longitude !"}');
         }else{
             // GET Json File
-            $path_json = $this->get('kernel')->getRootDir().'/..'.$this->container->get('templating.helper.assets')->getUrl('/json/taxis_'.$lat.'_'.$lon.'.json', null);
+            $path_json = '/app/..'.$this->container->get('templating.helper.assets')->getUrl('/json/taxis_'.$lat.'_'.$lon.'.json', null);
             if(file_exists($path_json)){
                 $response->setContent(file_get_contents($path_json));
             }else{
